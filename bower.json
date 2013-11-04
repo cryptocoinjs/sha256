@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "description": "Compute SHA256 of bytes or strings",
+  "name": "cryptocoin-sha256",
+  "keywords": [
+    "string",
+    "strings",
+    "sha256",
+    "bytes",
+    "cryptography"
+  ],
+  "ignore": [
+    "node_modules",
+    ".DS_Store",
+    "references"
+  ],
+  "dependencies": {
+    "cryptocoin-convert-hex": "0.0.x",
+    "cryptocoin-convert-string": "0.0.x"
+  },
+  "repo": "https://github.com/cryptocoinjs/sha256",
+  "main": "lib/sha256.js"
+}
