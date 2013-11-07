@@ -1,7 +1,7 @@
 {
-  "version": "0.0.1",
-  "description": "Compute SHA256 of bytes or strings",
   "name": "cryptocoin-sha256",
+  "version": "0.0.2",
+  "description": "Compute SHA256 of bytes or strings",
   "keywords": [
     "string",
     "strings",
