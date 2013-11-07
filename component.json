@@ -11,11 +11,11 @@
   ],
   "repo": "cryptocoinjs/sha256",
   "scripts": [
-    "lib/sha256.js"
+    "./lib/sha256.js"
   ],
-  "main": "lib/sha256.js",
+  "main": "./lib/sha256.js",
   "dependencies": {
     "cryptocoinjs/convert-hex": "0.0.x",
     "cryptocoinjs/convert-string": "0.0.x"
-  },
+  }
 }

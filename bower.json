@@ -19,5 +19,5 @@
     "cryptocoin-convert-string": "0.0.x"
   },
   "repo": "https://github.com/cryptocoinjs/sha256",
-  "main": "lib/sha256.js"
+  "main": "./lib/sha256.js"
 }

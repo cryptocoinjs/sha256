@@ -17,7 +17,7 @@
     "url": "https://github.com/cryptocoinjs/sha256",
     "type": "git"
   },
-  "main": "lib/sha256.js",
+  "main": "./lib/sha256.js",
   "dependencies": {
     "cryptocoin-convert-hex": "0.0.1",
     "cryptocoin-convert-string": "0.0.1"
