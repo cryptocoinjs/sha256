@@ -15,4 +15,12 @@ describe('+ sha256(input)', function() {
   })
 })
 
+describe('+ x2(input)', function() {
+  describe('> when input is a string', function() {
+    it('should compute the sha256 twice', function() {
+      EQ (sha256.x2("hello"), "d7914fe546b684688bb95f4f888a92dfc680603a75f23eb823658031fff766d9")
+    })
+  })
+})
+
 
