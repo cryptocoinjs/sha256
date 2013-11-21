@@ -3,15 +3,13 @@ convert-sha256
 
 JavaScript component to compute the SHA256 of strings or bytes.
 
-AMD/CommonJS compatible.
-
 
 Install
 -------
 
 ### Node.js/Browserify
 
-    npm install --save cryptocoin-sha256
+    npm install --save sha256
 
 ### Component
 
@@ -20,7 +18,7 @@ Install
 
 ### Bower
 
-    bower install cryptocoin-sha256
+    bower install sha256
 
 
 ### Script

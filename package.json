@@ -1,5 +1,5 @@
 {
-  "name": "cryptocoin-sha256",
+  "name": "sha256",
   "version": "0.0.2",
   "description": "Compute SHA256 of bytes or strings.",
   "keywords": [
@@ -19,7 +19,7 @@
   },
   "main": "./lib/sha256.js",
   "dependencies": {
-    "cryptocoin-convert-hex": "0.0.1",
-    "cryptocoin-convert-string": "0.0.1"
+    "convert-hex": "0.1.x",
+    "convert-string": "0.1.x"
   }
 }
