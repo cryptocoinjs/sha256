@@ -19,7 +19,7 @@
   },
   "main": "./lib/sha256.js",
   "dependencies": {
-    "convert-hex": "0.1.x",
-    "convert-string": "0.1.x"
+    "convert-hex": "~0.1.0",
+    "convert-string": "~0.1.0"
   }
 }
