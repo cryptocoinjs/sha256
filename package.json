@@ -21,5 +21,8 @@
   "dependencies": {
     "convert-hex": "~0.1.0",
     "convert-string": "~0.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
   }
 }

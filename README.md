@@ -49,7 +49,7 @@ Unit tests are written in [Mocha](http://visionmedia.github.io/mocha/). To run t
 
 ```sh
 $ npm install --dev
-$ ./node_modules/mocha/bin/mocha
+$ npm test
 ```
 
 # Credits
