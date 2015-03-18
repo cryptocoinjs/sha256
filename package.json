@@ -1,6 +1,6 @@
 {
   "name": "sha256",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Compute SHA256 of bytes or strings.",
   "keywords": [
     "string",

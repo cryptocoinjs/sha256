@@ -1,3 +1,9 @@
+0.2.0 / 2015-03-18
+------------------
+- browserify fix https://github.com/cryptocoinjs/sha256/pull/4
+- removed `component.json` and `bower.json`
+- added **deprecation** notice
+
 0.1.1 / ???????
 ---------------
 - (changelog wasn't updated, by viewing commit history, it looks like node specific)
