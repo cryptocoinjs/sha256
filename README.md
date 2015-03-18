@@ -10,19 +10,7 @@ JavaScript component to compute the SHA256 of strings or bytes.
 
 Note: when Node.js is detected, the Node [`Crypto`](http://nodejs.org/api/crypto.html) component is used instead of re-implementing the SHA256 hash logic.
 
-### Component
 
-    component install cryptocoinjs/sha256
-
-### Bower
-
-    bower install sha256
-
-### Script
-
-```html
-<script src="/path/to/sha256.js"></script>
-```
 
 ## Usage
 
