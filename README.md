@@ -2,6 +2,15 @@
 
 JavaScript component to compute the SHA256 of strings or bytes.
 
+## DEPRECATION NOTICE
+
+This library is deprecated. If you think it's important to maintain this library, please submit an issue and the case will be consider or the repo / ownership will be transferred to you. Viable alternatives:
+
+1. Use Browserify
+2. https://www.npmjs.com/package/sha.js (used by Browserify)
+3. https://github.com/indutny/hash.js
+
+
 ## Install
 
 ### Node.js/Browserify
