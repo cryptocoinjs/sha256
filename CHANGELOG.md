@@ -1,6 +1,10 @@
+0.1.1 / ???????
+---------------
+- (changelog wasn't updated, by viewing commit history, it looks like node specific)
+
 0.1.0 / 2013-11-20
 ------------------
-* changed package name 
+* changed package name
 * removed AMD support
 
 0.0.2 / 2013-11-06
