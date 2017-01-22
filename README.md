@@ -42,7 +42,7 @@ sha256('hello', { asString: true }); // ",òMº_°£&è;*Å¹â\§B^s3b$
 
 ## Test
 
-Unit tests are written in [Mocha](http://visionmedia.github.io/mocha/). To run the test suite, checkout the git repository, and from within the base folder run:
+Unit tests are written in [Mocha](https://mochajs.org/). To run the test suite, checkout the git repository, and from within the base folder run:
 
 ```sh
 $ npm install --dev
